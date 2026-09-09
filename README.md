@@ -199,16 +199,16 @@ Gross employment salaries and net B2B rates are intentionally kept separate beca
 ```text
 polish-junior-data-job-market-2026/
 │
-├── analysis_portfolio.sql
 ├── README.md
-├── data/
-│   └── jobs_cleaned.csv
-├── dashboard/
-│   └── junior_job_market.pbix
-└── images/
-    ├── market_overview.png
-    ├── skills_intelligence.png
-    └── entry_barriers_salary.png
+├── analysis_portfolio.sql
+├── junior_job_market.pbix
+├── market_overview.png
+├── skills_intelligence.png
+├── entry_barriers_salary.png
+└── data/
+    ├── jobs.csv
+    ├── skills.csv
+    └── job_skills.csv
 ```
 
 ## Author
