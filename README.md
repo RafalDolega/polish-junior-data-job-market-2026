@@ -91,7 +91,7 @@ SQL file: [`analysis_portfolio.sql`](analysis_portfolio.sql)
 
 ## Power BI dashboard
 
-The Power BI report contains three pages:
+The Power BI report contains three pages.
 
 ### 1. Market Overview
 
@@ -103,6 +103,8 @@ Shows:
 - top contract types
 - top job locations
 
+![Market Overview](market_overview.png)
+
 ### 2. Skills Intelligence
 
 Shows:
@@ -111,6 +113,8 @@ Shows:
 - top skills in no-experience jobs
 - skill demand vs. entry-level accessibility
 - skill ranking table
+
+![Skills Intelligence](skills_intelligence.png)
 
 ### 3. Entry Barriers & Salary
 
@@ -121,6 +125,8 @@ Shows:
 - minimum experience distribution
 - salary overview
 - average monthly salary by salary type
+
+![Entry Barriers & Salary](entry_barriers_salary.png)
 
 The `Work Model` and `Location` slicers are synchronized across all three pages.
 
