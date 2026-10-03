@@ -213,5 +213,4 @@ polish-junior-data-job-market-2026/
 
 ## Author
 
-Rafał Dołęga  
-Aspiring Data Analyst
+Rafał Dołęga
